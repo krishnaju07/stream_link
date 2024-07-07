@@ -1,0 +1,45 @@
+#EXTINF:-1 tvg-id="aajtak" tvg-logo="https://play.google.com/store/apps/details?id=com.itg.aajtakhd&hl=hi" group-title="NEWS",aajtak- HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
+https://pubads.g.doubleclick.net/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Entertainment",Sony MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Entertainment",Sony WAH
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movie",Sony PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Entertainment",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony TEN 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony TEN 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony TEN 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony TEN 4 HD
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony TEN 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Star sports 1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+ 
+
